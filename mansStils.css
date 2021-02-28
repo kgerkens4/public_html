@@ -1,4 +1,5 @@
+
 body{
-    background-image: url("Images-blur-wide.jpg");
-    
+    color: red;
+    background-image: url('Images-blur-wide.jpg');
 }
